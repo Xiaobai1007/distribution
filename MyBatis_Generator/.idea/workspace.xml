@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="592161e5-c4f3-4b3e-b58a-acaf9e1f42cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/WEB-INF/decorators.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/decorators/book_sitemesh.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/Test/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum/src/com/Xiaobai/MyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Equals/src/com/MyEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git/src/com/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/java/com/nf147/sss/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/java/com/nf147/sss/entity/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven-commen/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/web/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/resources/spring-root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/webapp/WEB-INF/views/book_detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/webapp/WEB-INF/views/book_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/dao/PhoneDAOMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/dao/SQLiteJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/main/GsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/main/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/servlet/PhoneListMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/vo/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/fastjson-1.2.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/phone/phone_home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/dao/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/entiy/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/resources/conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/resources/mapper/studentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/dao/InvoiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/BillingInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/InvoiceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/Invoice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/PersonMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/com/servlet/aaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/com/servlet/bbb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyThread/src/com/Thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebSocket/src/com/WSServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parent-Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/PhoneDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/PhoneInterfaceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/WebUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/servlet/PhoneServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/text/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/WEB-INF/lib/sitemesh-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/jquery1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/phone/phone_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/sitemesh/phone_decorate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/BookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/vo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/WEB-INF/decorators.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/decorators/book_sitemesh.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingletonMode/src/com/Company/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingletonMode/src/com/Company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringandStringBuffer/src/com/Xiaobai/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/xiaobai/dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/src/com/conn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/js/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entity/src/com/xiaobai/entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git_StaticWeb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Servlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/src/com/age/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Product/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Product/web/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1262948089">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="78" column="71" selection-start-line="78" selection-start-column="71" selection-end-line="78" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyBatis_Generator Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyBatis_Generator Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyBatis_Generator Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaobai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatis_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592161e5-c4f3-4b3e-b58a-acaf9e1f42cf" name="Default Changelist" comment="" />
+      <created>1540124095233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540124095233</updated>
+      <workItem from="1540124107589" duration="1302000" />
+      <workItem from="1540125648121" duration="491000" />
+      <workItem from="1540126264829" duration="857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2650000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2852459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.23442623" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="78" column="71" selection-start-line="78" selection-start-column="71" selection-end-line="78" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48439306" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
